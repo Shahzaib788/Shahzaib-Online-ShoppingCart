@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1668411407 source:c:\users\shahz\onedrive\documents\shopping_cart\shopping-cart\main.cpp
+	<iostream>
+	<iomanip>
+	"../ItemToPurchase.h"
+	"../ShoppingCart.h"
+
+1668411294 source:c:\users\shahz\onedrive\documents\shopping_cart\shopping-cart\shoppingcart.cpp
+	<iostream>
+	"../ShoppingCart.h"
+	"../ItemToPurchase.h"
+	<string>
+
+1668411266 c:\users\shahz\onedrive\documents\shopping_cart\shoppingcart.h
+	"ItemToPurchase.h"
+	<vector>
+	<string>
+
+1668411252 c:\users\shahz\onedrive\documents\shopping_cart\itemtopurchase.h
+	<string>
+
+1668411368 source:c:\users\shahz\onedrive\documents\shopping_cart\shopping-cart\itemtopurchase.cpp
+	<iostream>
+	"../ItemToPurchase.h"
+
